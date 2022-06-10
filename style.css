@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+#start {
+    background-color: aqua;
+    color: orange;
+    font-family: cursive;
+    font-weight: bold;
+    width: 100px;
+    height: 100px;
+    font-size: 45px;
+    border: none;
+}
+
+h1 {
+    font-size: 70px;
+    color: red;
+}
+
+

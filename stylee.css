@@ -1,0 +1,28 @@
+body {
+    background-color: blueviolet;
+}
+
+#name {
+    font-size: 50px;
+    font-weight: bold;
+    color: red;
+    font-family: sans-serif;
+    height: 100px;
+    width: 100%;
+}
+
+#Description {
+    font-size: 20px;
+    color: black;
+    font-family: sans-serif;
+    height: 250px;
+    width: 100%;
+    background-color: grey;
+    overflow: scroll;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+
+#header {
+    color: white;
+}
